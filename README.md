@@ -9,8 +9,7 @@ I'm a self-taught passionate full stack developer from Turkey TR
 - 💬 Ask me about anything [here](https://github.com/azizhudai/azizhudai/issues)
 
 
-
-**Languages and Tools:**  
+<br>
 
 <table>
 <tr>
